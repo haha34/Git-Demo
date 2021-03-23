@@ -6,4 +6,7 @@ package com.duyi;
  * @date 2021/3/23 13:23
  */
 public class MainTest1 {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
